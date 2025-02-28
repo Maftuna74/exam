@@ -27,7 +27,13 @@ body{
     width: 15%;
     height: 35px;
     background-color: white;
+
+
 }
 .text{
     color: darkgray;
+}
+button{
+    border: none;
+    border-radius: 5px;
 }
